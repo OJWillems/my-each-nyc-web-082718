@@ -1,5 +1,5 @@
 def my_each(array)
-  if array.size > 0
+  if array.length > 0
     n = 0
     while n < array.length
       yield array[n]
