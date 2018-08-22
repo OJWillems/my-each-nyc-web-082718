@@ -1,3 +1,3 @@
-def my_each(num)
+def my_each(argument)
   
 end
